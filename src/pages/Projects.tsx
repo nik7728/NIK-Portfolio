@@ -3,15 +3,15 @@ import React from 'react';
 const Projects = () => {
   const projects = [
     {
-      title: 'E-commerce Platform',
-      description: 'A full-stack e-commerce platform built with React, Node.js, and MongoDB. Features include user authentication, product management, shopping cart, and payment integration.',
-      image: 'https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&w=800&h=400',
+      title: 'TravelU - Website',
+      description: 'Developed a responsive travel website using HTML, CSS, JavaScript, and PHP, with secure user authentication handled via PHP and MySQL on XAMPP. Implemented dynamic content, database management, and a user-friendly interface for an enhanced travel booking experience.',
+      image: '/travel.png',
       technologies: ['React', 'Node.js', 'MongoDB', 'Stripe']
     },
     {
-      title: 'Task Management App',
-      description: 'A collaborative task management application with real-time updates. Built using React, Firebase, and Material-UI. Includes features like task assignment, due dates, and progress tracking.',
-      image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&h=400',
+      title: 'Personal Portfolio',
+      description: 'Built with HTML, CSS, and JavaScript (or React, if applicable), this portfolio showcases my skills, projects, and experience in web development. It features a clean and responsive design, smooth animations, and an interactive user experience.',
+      image: '/personal.png',
       technologies: ['React', 'Firebase', 'Material-UI', 'Redux']
     }
   ];

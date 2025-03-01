@@ -6,7 +6,7 @@ const Projects = () => {
     {
       title: 'TravelU - Website',
       description: 'Developed a responsive travel website using HTML, CSS, JavaScript, and PHP, with secure user authentication handled via PHP and MySQL on XAMPP. Implemented dynamic content, database management, and a user-friendly interface for an enhanced travel booking experience.',
-      image: 'https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&w=800&h=400',
+      image: '/travel.png',
       technologies: ['Html/CSS', 'JavaScript','PHP', 'SQL'],
       github: 'https://github.com',
       live: 'https://demo-ecommerce.com'
@@ -14,7 +14,7 @@ const Projects = () => {
     {
       title: 'Personal Portfolio',
       description: 'Built with HTML, CSS, and JavaScript (or React, if applicable), this portfolio showcases my skills, projects, and experience in web development. It features a clean and responsive design, smooth animations, and an interactive user experience.',
-      image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&h=400',
+      image: '/personal.png',
       technologies: ['Html', 'CSS', 'JavaScript', 'React'],
       github: 'https://github.com',
       live: 'https://demo-taskmanager.com'

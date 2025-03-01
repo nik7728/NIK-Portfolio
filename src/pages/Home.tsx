@@ -5,7 +5,7 @@ const Home = () => {
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
       <div className="text-center">
         <img
-          src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=300&h=300"
+          src="/nikhil.jpg"
           alt="Profile"
           className="w-48 h-48 rounded-full mx-auto mb-8 object-cover"
         />
