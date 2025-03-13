@@ -44,7 +44,7 @@ const About = () => {
             {skills.map((skill, index) => (
               <div
                 key={index}
-                className="bg-white shadow rounded-lg p-6 text-center"
+                className="bg-white shadow rounded-lg p-5 text-center"
               >
                 {skill}
               </div>
